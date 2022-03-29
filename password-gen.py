@@ -1,6 +1,4 @@
 import random
-from turtle import width
-from numpy import pad
 import requests
 from tkinter import *
 from tkinter import ttk
